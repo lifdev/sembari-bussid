@@ -1,2 +1,2 @@
 # sembari-bussid
-Website blog Bus Simulator Indonesia | Share mod Bussid
+Blog Bus Simulator Indonesia
